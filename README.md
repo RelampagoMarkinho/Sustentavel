@@ -1,2 +1,0 @@
-# Sustentavel
-Projeto de Extensão

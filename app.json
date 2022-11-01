@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "sustentavel",
+    "name": "Consciência Sustentável",
     "slug": "sustentavel",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,8 +18,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "s"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
